@@ -63,10 +63,12 @@ It's much better to be prepared how to use AI assisted content creation than to 
 
 ## Accessing the OpenAI APIs from .NET
 
+- [OpenAI API](https://beta.openai.com/docs/api-reference/introduction)
 - [Dotnet SDK for OpenAI GPT-3 and DALL·E](https://github.com/betalgo/openai)
 - [ObjectModels](https://github.com/betalgo/openai/tree/master/OpenAI.SDK/ObjectModels)
 - [Samples - OpenAI.Playground](https://github.com/betalgo/openai/tree/master/OpenAI.Playground)
-- [OpenAI API](https://beta.openai.com/docs/api-reference/introduction)
+
+Note: There are other .NET SDKs for OpenAI APIs, but betalgo/openai is the most active
 
 ## Demo - SmartWriter sample app in .NET
 
