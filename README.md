@@ -33,6 +33,7 @@ It's much better to be prepared how to use AI assisted content creation than to 
 - [DALL E 2](https://openai.com/dall-e-2)
 - [MidJourney Image Generation](https://www.midjourney.com)
 - [OpenAI Community](https://community.openai.com)
+- [OpenAI Whisper](https://openai.com/blog/whisper)
 - [OpenAI Whisper - Fed Speech Recognition](https://www.youtube.com/watch?v=Wc4bQxuypo0)
 - [Exploring GPT-3](https://subscription.packtpub.com/book/data/9781800563193/1)
 
@@ -49,7 +50,7 @@ It's much better to be prepared how to use AI assisted content creation than to 
   Copilot is a new AI-powered code-completion tool that helps you write code faster and with fewer bugs. It’s available in Visual Studio ode, GitHub, and GitHub Codespaces.
   ```
 
-- [CodeGPT](https://codegpt.com)
+- [CodeGPT](https://www.codegpt.co)
 
   ```text
   - Get Code: Create a comment asking for a specific code and it will open in a new Editor.
