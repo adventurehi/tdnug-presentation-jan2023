@@ -1,4 +1,6 @@
-# Introduction to AI Assisted Content Creation with .NET - TDNUG 1/18/2023
+# Introduction to AI Assisted Content Creation with .NET 
+
+#### TDNUG 1/18/2023
 
 ## What is AI assisted Content Creation?
 
@@ -61,12 +63,15 @@ It's much better to be prepared how to use AI assisted content creation than to 
 ## Accessing the OpenAI APIs from .NET
 
 - [Dotnet SDK for OpenAI GPT-3 and DALL·E](https://github.com/betalgo/openai)
-- [ImageRequestModel](https://github.com/betalgo/openai/blob/master/OpenAI.SDK/ObjectModels/SharedModels/SharedImageRequestBaseModel.cs)
+- [ObjectModels](https://github.com/betalgo/openai/tree/master/OpenAI.SDK/ObjectModels)
+- [Samples - OpenAI.Playground](https://github.com/betalgo/openai/tree/master/OpenAI.Playground)
 - [OpenAI API](https://beta.openai.com/docs/api-reference/introduction)
 
 ## Demo - SmartWriter sample app in .NET
 
-Introduction to idea - makes me wonder
+App v1 - first attempt at using OpenAI API
+
+Introduction to smart writer idea - makes me wonder
 
 Article writing tool that can help you to create articles with AI assisted code, text, image generation.
 
