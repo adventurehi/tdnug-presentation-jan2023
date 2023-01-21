@@ -20,7 +20,7 @@ Additionally, AI-assisted content generation can help to reduce the time it take
 
 ## My Take
 
-I believe that AI assisted content creation will play a predominant role in the future of software development. Software developers will be able to use AI to create code, documentation, and other technical content. In addition, AI will be able to help software developers improve the quality of their work by providing accurate and up-to-date information on coding techniques and best practices.
+It's clear that AI assisted content creation will play a predominant role in the future of software development. Software developers will be able to leverage AI to create designs, plans, code, tests, documentation and other technical content.
 
 It's much better to be prepared how to use AI assisted content creation than to be left behind or to worry about AI completely taking over your job.
 
@@ -44,10 +44,11 @@ It's much better to be prepared how to use AI assisted content creation than to 
 
 ## Developer tools for AI assisted content creation
 
-- [Your AI pair programmer](https://github.com/features/copilot)
+- [CoPilot - Your AI pair programmer](https://github.com/features/copilot)
 
   ```text
-  Copilot is a new AI-powered code-completion tool that helps you write code faster and with fewer bugs. It’s available in Visual Studio ode, GitHub, and GitHub Codespaces.
+  - Copilot is a new AI-powered code-completion tool that helps you write code faster and with fewer bugs. 
+  - It’s available in Visual Studio, Visual Studio Code, GitHub, and GitHub Codespaces.
   ```
 
 - [CodeGPT](https://www.codegpt.co)
